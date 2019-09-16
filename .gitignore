@@ -1,9 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Visual Studio 2015 database file
-*.VC.db
-
 # Compiled Object files
 *.slo
 *.lo
@@ -75,13 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Risk_of_Rhythm/Intermediate/CachedAssetRegistry.bin
-Risk_of_Rhythm/Saved/AutoScreenshot.png
-Risk_of_Rhythm/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Risk_of_Rhythm/Saved/Logs/Risk_of_Rhythm.log
-Risk_of_Rhythm/Saved/AutoScreenshot.png
-Risk_of_Rhythm/Saved/AutoScreenshot.png
-Risk_of_Rhythm/Saved/Logs/Risk_of_Rhythm.log
-Risk_of_Rhythm/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Risk_of_Rhythm/Saved/Config/CrashReportClient/UE4CC-Windows-F0909D8649B842750F57B39BA951F90F/CrashReportClient.ini
-Risk_of_Rhythm/Intermediate/CachedAssetRegistry.bin

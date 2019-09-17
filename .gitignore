@@ -76,3 +76,6 @@ DerivedDataCache/*
 *.ini
 *.ini
 *.log
+*.bin
+*.ini
+*.log

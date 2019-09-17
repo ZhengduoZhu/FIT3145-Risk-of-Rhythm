@@ -73,9 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.png
-*.ini
-*.ini
 *.log
 *.bin
-*.ini
-*.log
